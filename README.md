@@ -15,6 +15,13 @@ A summary of my projects relating to data analytics.
  [name](link) | Description | [Dashboard name](link) |
 
 *** 
+# Excel
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| ☕️ [Coffee Bean Sales](https://github.com/HarryQBui/Coffee_Bean_Sales) | Data transformation, Data Visualisation, Dashboarding | This repo serves as the interactive dashboard for the [Kaggle's Coffee Bean Sales dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset/code).
+*** 
+
 
 # Python
 | Project Link | Area | Project Description | Libraries |    
