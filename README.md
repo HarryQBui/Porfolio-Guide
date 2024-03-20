@@ -12,7 +12,7 @@ A summary of my projects relating to data analytics.
 # Tableau
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
- [name](link) | Description | [Dashboard name](link) |
+ [King County House Sales](https://github.com/HarryQBui/KingCounty_Housing) | Cleansed and transformed data from the [Kaggle's House Sales in King County, USA dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data) using Excel. The dashboard would allow potential house buyers/investors to do research based on sales transactions between 2014-2015. The data can be filtered by time (Month & date), Zipcode and categorical characteristics (Size in Sqm, built year). | [Dashboard](https://public.tableau.com/app/profile/harry.bui/viz/KingCountryHouseSales2014-2015/KingCountyHouseSales?publish=yes) |
 
 *** 
 # Excel
